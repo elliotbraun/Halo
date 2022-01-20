@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd80f57b312ec81ef461c1c68014d95dda5e0d8c0",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x0faf8eec4feec930c2c400952039aba1e8aaa16d54aa9fa084b55e76f75d38eb",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Halo Dogs",
+  "SYMBOL": "HDNFT",
+  "MAX_SUPPLY": 5,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/halo-dogs-buaiqizbhm",
+  "SHOW_BACKGROUND": true
+}
